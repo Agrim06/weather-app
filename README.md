@@ -49,19 +49,19 @@ Copy code
 npm start
 The app should now be running at http://localhost:3000
 
-📷 Screenshots
+## 📷 Screenshots
 
 <img width="602" height="958" alt="image" src="https://github.com/user-attachments/assets/3b265c6a-5638-4e35-af7f-872decbafbda" />
 
 
-⚙️ Usage
+## ⚙️ Usage
 Enter the city name in the search bar
 
 Click Search
 
 View the current weather details for your selected city
 
-🌟 Future Improvements
+##🌟 Future Improvements
 Add weekly and hourly forecast
 
 Enable dark mode
